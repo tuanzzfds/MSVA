@@ -26,3 +26,5 @@ torchvision
 tqdm
 typing-extensions
 urllib3
+dataclasses==0.6
+
